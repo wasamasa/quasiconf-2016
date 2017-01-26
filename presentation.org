@@ -13,7 +13,7 @@
 
 - Vasilij Schneidermann, 24
 - Wirtschaftsinformatikstudent
-- Praktikant bei [[https://www.bevuta.com/en/][bevuta IT GbmH]]
+- Praktikant bei [[https://www.bevuta.com/en/][bevuta IT GmbH]]
 - [[v.schneidermann@gmail.com]]
 - https://github.com/wasamasa
 - http://emacshorrors.com/
