@@ -1,9 +1,1 @@
-* MAL - Making A Lisp
-
-MAL ist ein minimaler, Clojure-inspirierter Lisp-Dialekt. Ziel des
-Projektes ist es, dem geneigten Programmierer zu vermitteln wie man
-einen eigenen Interpreter konstruiert. In diesem Vortrag werden sowohl
-die Sprache als auch der Weg durch die einzelnen
-Implementierungsschritte präsentiert.
-
-Videoaufnahme: [[https://www.youtube.com/watch?v=2c4MFHTq-bo]]
+Moved to https://depp.brause.cc/talks/
